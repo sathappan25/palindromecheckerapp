@@ -12,7 +12,7 @@ public class PalindromeCheckerApp {
 
    }
 
-  
+
    static void Usecase9() {
       String var0 = "madam";
       boolean var1 = check(var0, 0, var0.length() - 1);
